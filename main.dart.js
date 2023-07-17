@@ -40534,7 +40534,7 @@ A.rI.prototype={
 wR(){var s=0,r=A.Z(t.H)
 var $async$wR=A.a_(function(a,b){if(a===1)return A.W(b,r)
 while(true)switch(s){case 0:s=2
-return A.a2(A.ajR("https://www.tiktok.com/v2/auth/authorize/?client_key=awcusbq57i6nd0pt&redirect_uri=https://nivek0330.github.io/da_social_media_viewer/&scope=user.info.basic,user.info.profile,user.info.stats,video.list&response_type=code&state="+A.aED(16),"_self"),$async$wR)
+return A.a2(A.ajR("https://www.tiktok.com/v2/auth/authorize/?client_key=awcusbq57i6nd0pt&redirect_uri=https://nivek0330.github.io/&scope=user.info.basic,user.info.profile,user.info.stats,video.list&response_type=code&state="+A.aED(16),"_self"),$async$wR)
 case 2:return A.X(null,r)}})
 return A.Y($async$wR,r)},
 iS(a){return this.PZ(a)},
