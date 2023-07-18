@@ -40722,7 +40722,7 @@ var $async$iW=A.X(function(a,b){if(a===1)return A.T(b,r)
 while(true)switch(s){case 0:o=t.N
 n=A.ay(["Authorization","Bearer "+$.jj().iT(0,t.f7).a.a.a],o,o)
 s=3
-return A.a1(p.a.Jr("GET",A.apw("https","//open.tiktokapis.com","/v2/user/info/?fields=open_id,profile_deep_link,follower_count,following_count,likes_count",null),n),$async$iW)
+return A.a1(p.a.Jr("GET",A.apw("https","open.tiktokapis.com","/v2/user/info/?fields=open_id,profile_deep_link,follower_count,following_count,likes_count",null),n),$async$iW)
 case 3:m=b
 if(m.b===200){q=B.aP.Bv(0,A.ar_(J.b_(A.apO(m.e).c.a,"charset")).d9(0,m.w),null)
 s=1
